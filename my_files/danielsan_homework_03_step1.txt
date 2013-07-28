@@ -1,0 +1,1 @@
+https://github.com/danielsan/bitstarter.git, http://bitstarter-danielsan.herokuapp.com
